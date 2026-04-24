@@ -8,19 +8,26 @@
 - AI_WORKFLOW.md
 - Automated test
 - Live deployment URL
+- Backend API URL
 - Walkthrough video link
 
 ---
 
 ## Live App
 
-[PASTE YOUR DEPLOYED URL HERE]
+https://ajaia-doc-editor-gules.vercel.app
+
+---
+
+## Backend API
+
+https://ajaia-backend-iccl.onrender.com
 
 ---
 
 ## Walkthrough Video
 
-[PASTE YOUR VIDEO LINK HERE]
+https://youtu.be/dXLzKOLLSH8
 
 ---
 
@@ -51,11 +58,11 @@
 
 ## What I Would Build Next
 
-- Real-time collaboration (WebSockets)
+- Real-time collaboration using WebSockets
 - Authentication system
 - Version history
 - Comments and suggestions
-- Export to PDF/Markdown
+- Export to PDF or Markdown
 
 ---
 
